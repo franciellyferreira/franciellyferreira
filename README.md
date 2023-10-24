@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Fran
 
-- 😄 I'm Brazilian, backend software developer.
+- 😄 I'm brazilian.
+- 💻 I'm working was a backend software developer.
 - 🌱 I'm learning Javascript and Nodejs.
 - 🤔 I'm looking for people to translate and collaborate with the project [#design-apis-guide](https://github.com/franciellyferreira/design-apis-guide) (see issues).
 
@@ -28,4 +29,4 @@ Here are some ideas to get you started:
 - SQL (MySQL and PostgresQL)
 - MongoDB
 - Elasticsearch
-- Kafka
+- Pubsub / Kafka
