@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 I'm brazilian.
 - 💻 I'm working was a backend software developer.
-- 🌱 I'm learning Javascript and Nodejs.
+- 🌱 I'm learning Javascript, Node.js and NestJs.
 - 🤔 I'm looking for people to translate and collaborate with the project [#design-apis-guide](https://github.com/franciellyferreira/design-apis-guide) (see issues).
 
 #### Some Skills
